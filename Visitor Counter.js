@@ -20,5 +20,3 @@ document.write('<span class="counter_style">0</span>')
 for (y=0;y<(count_num.toString().length);y++)
 document.write('<span class="counter_style">'+count_num.toString().charAt(y)+'</span>')
 }
-
-/* <script type="text/javascript" lang="Eng">page_countvisit(count_num) */
